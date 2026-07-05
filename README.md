@@ -94,6 +94,9 @@ edge_gateway/
 ├── README.md
 └── stm32_fw/             # STM32 下位机源码（CubeMX + Keil 工程）
 ```
+## 作者邮箱
+2112990283@qq.com
+
 
 
 
