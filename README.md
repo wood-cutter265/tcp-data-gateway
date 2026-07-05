@@ -46,8 +46,7 @@
 ## 快速部署
 
 ```bash
-# 克隆项目
-git clone <仓库地址>
+
 cd edge_gateway
 
 # 编译
